@@ -27,12 +27,10 @@ class MainActivity : AppCompatActivity() {
         bottomNavigationView.setOnItemSelectedListener { when(it.itemId){
             R.id.signUpNav -> {
                 navController.navigate(R.id.action_loginFragment_to_signUpFragment)
-                binding.loginButton.text = "REGISTER"
                 true
             };
             R.id.loginNav -> {
                 navController.navigate(R.id.action_signUpFragment_to_loginFragment)
-                binding.loginButton.text = "LOGIN"
                 true
             };
             else -> {null

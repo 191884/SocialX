@@ -14,7 +14,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "502904044936-j96avp5qrlhi7smmtvdc2hrho5j2kks9.apps.googleusercontent.com",
+          "client_id": "502904044936-b8ja2rsvv5eia7avk18dvt9o79h6bnqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snappy.socialx",
+            "certificate_hash": "6cd2a89b860caf571041e0e9e99ed74eebe6cc20"
+          }
+        },
+        {
+          "client_id": "502904044936-b0vneec2smcsqtspef1jbcct1mub9l3f.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -27,7 +35,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "502904044936-j96avp5qrlhi7smmtvdc2hrho5j2kks9.apps.googleusercontent.com",
+              "client_id": "502904044936-b0vneec2smcsqtspef1jbcct1mub9l3f.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
