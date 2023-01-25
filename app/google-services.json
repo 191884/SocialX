@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502904044936",
+    "project_id": "socialx-ef33d",
+    "storage_bucket": "socialx-ef33d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502904044936:android:5d7a3122684af416690e3d",
+        "android_client_info": {
+          "package_name": "com.snappy.socialx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502904044936-j96avp5qrlhi7smmtvdc2hrho5j2kks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7vyfSKMdj0WGfwY2CFN6U2PpPFKn1X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502904044936-j96avp5qrlhi7smmtvdc2hrho5j2kks9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
