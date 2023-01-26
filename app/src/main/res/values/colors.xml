@@ -10,4 +10,7 @@
     <color name="red">#FF0000</color>
     <color name="grey">#808080</color>
     <color name="transparent">#00000000</color>
+
+    <color name="socialX_theme_color">#8b9dc3</color>
+    <color name="recyclerView_background">#F1F1F1</color>
 </resources>
