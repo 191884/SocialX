@@ -8,7 +8,7 @@ Libraries/ Frameworks used are :-
 >Volly Library for API handling,
 >Glibe for images.
 
-file:///home/aman/Downloads/Screenshot_20230126-152559_SocialX.png
-file:///home/aman/Downloads/Screenshot_20230126-152444_SocialX.png
-file:///home/aman/Downloads/Screenshot_20230126-151651_SocialX.png
-file:///home/aman/Downloads/Screenshot_20230126-151645_SocialX.png
+<img src="ScreenShots/Screenshot_20230126-151651_SocialX.png" width="128"/>,
+<img src="ScreenShots/Screenshot_20230126-151645_SocialX.png" width="128"/>,
+<img src="ScreenShots/Screenshot_20230126-152444_SocialX.png" width="128"/>,
+<img src="ScreenShots/Screenshot_20230126-152559_SocialX.png" width="128"/>
