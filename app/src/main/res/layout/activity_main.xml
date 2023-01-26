@@ -14,11 +14,19 @@
         app:layout_constraintTop_toTopOf="parent"
         android:background="@color/white">
         <EditText
+            android:id="@+id/search_bar"
             android:padding="10dp"
-            android:layout_width="match_parent"
+            android:layout_width="380dp"
             android:layout_height="wrap_content"
             android:hint="Search in Feed"
             android:drawableStart="@drawable/search"/>
+        <ImageView
+            android:id="@+id/logOut"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:clickable="true"
+            android:src="@drawable/exit"/>
     </Toolbar>
 
     <androidx.recyclerview.widget.RecyclerView
